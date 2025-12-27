@@ -250,3 +250,84 @@ You agree to follow all rules
 You accept all consequences for violations
 
 Failure to comply will result in enforcement actions as described above.
+
+14. Legal Consequences of Breaking Laws
+14.1 Criminal and Civil Liability – Macedonian Law
+
+14.1.1 Copyright Infringement (North Macedonia)
+Unauthorized copying, distributing, publishing, showing, reproducing, or otherwise improperly using copyrighted material — including game files, screenshots, videos, or any protected Game content — may be considered a criminal offense under the Law on Copyright and Related Rights and the Macedonian Criminal Code. This includes sharing, re-uploading, or using such content without permission.
+
+Under Macedonian law:
+
+Copyright infringement can be a criminal offense, not just a civil violation. 
+
+Individuals found guilty of infringing copyright may face imprisonment, fines, or both — even for acts involving digital content. 
+
+Where the infringement causes significant financial gain or harm, penalties may be increased. 
+
+In some cases, courts may confiscate copies of the work, devices used for infringement, and related materials. 
+
+14.1.2 Civil Damages and Remedies
+Beyond criminal penalties, the copyright owner — including Gamepixel Inc. — may pursue civil action to:
+
+Seek compensation for losses caused by infringement
+
+Demand the removal or destruction of infringing material
+
+Claim profits gained from unauthorized use
+
+These remedies are available even if criminal charges are also pursued.
+
+14.1.3 Personal Data and Privacy Laws
+Collecting, storing, or using personal data without consent — including through unauthorized access to account systems — can violate Macedonian data protection laws. In North Macedonia, misuse of personal data is a criminal offense and may result in:
+
+Administrative fines
+
+Criminal liability
+
+Civil claims by affected individuals
+
+This includes hacking or exploiting the account system to obtain personal data. 
+globallegalpost.com
+
+14.1.4 Other Violations
+Violating business secrecy or computer system controls may also be punishable under the Macedonian Criminal Code, potentially resulting in imprisonment and fines. 
+Derechos Humanos
+
+14.2 Penalties Under European Union Law (for EU Residents or Operations)
+
+If the Game, Application, or services provided by Gamepixel Inc. are used by individuals in the European Union, EU law may also apply. Under EU copyright enforcement standards (implemented through directives applicable across member states):
+
+14.2.1 Copyright and Related Rights
+
+Unauthorized distribution, copying, or public sharing of copyrighted material may lead to civil liability, injunctions, monetary damages, and legal costs in EU jurisdictions.
+
+Rights holders can pursue legal action for losses and may be awarded statutory damages, damages for lost profits, and costs of litigation (amounts depend on the country and severity of infringement).
+
+14.2.2 Internet Service Provider and Platform Liability
+EU law includes procedures for removing infringing content (“take-down procedures”), and hosting platforms may be required to disable access to copyright violations upon notice.
+
+14.2.3 Enhanced Enforcement
+In serious cases, EU member states can impose:
+
+Higher fines
+
+Court orders preventing further infringement
+
+Ordered destruction of infringing materials
+
+These remedies are intended to align with EU directives on copyright enforcement and intellectual property protection.
+
+15. Acknowledgement of Legal Risk
+
+By creating an account and using the Application or Game, you explicitly acknowledge that:
+
+You understand that violating copyright laws may lead to criminal prosecution, civil liabilities, fines, and imprisonment under Macedonian law.
+
+You understand that unauthorized distribution, copying, or misuse of protected Game content can result in legal action by Gamepixel Inc. or public authorities.
+
+You understand that data misuse, piracy, hacking, exploiting systems, and other unlawful acts are subject to legal penalties both domestically and (if applicable) under EU law.
+
+You agree to fully comply with all applicable laws, including copyright, data protection, and computer access laws.
+
+Gamepixel Inc. will not be liable for any legal consequences you personally incur as a result of violating laws, rules, or this Agreement.
